@@ -1,0 +1,2 @@
+# ConnectFourQt
+Connect Four Qt
